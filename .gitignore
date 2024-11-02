@@ -1,0 +1,26 @@
+# Laravel
+/vendor
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/.env
+.phpunit.result.cache
+ Homestead.yaml
+ Homestead.json
+/.vagrant
+/.idea
+/.env.local
+/.env.development.local
+/.env.production.local
+/.env.testing.local
+/public/build
+/public/mix-manifest.json
+
+# IDEs
+/.vscode
+/.idea
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,21 @@
+{
+    "name": "fadildev/rapid-setup",
+    "description": "Package to automate the setup of a Laravel project once it has been cloned from GitHub.",
+    "type": "library",
+    "require": {
+        "laravel/framework": "^10.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fadildev\\RapidSetup\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "serigne fallou seck (fadildev)",
+            "email": "seck22331@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
